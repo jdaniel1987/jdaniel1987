@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="[https://linkedin.com/in/iipg2244](https://www.linkedin.com/in/jdaniel1987/)" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/jdaniel1987/" target="blank"><img align="center"
             src="assets/img/icons8-linkedin.svg"
             alt="jdaniel1987" height="30" width="40" /></a>
 </p>
