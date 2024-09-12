@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-    Passionate web developer with experience in .NET and Azure Cloud. I enjoy solving complex problems and continuously learning new technologies to improve my skills and contribute to innovative projects.
+    Passionate software engineer with experience in .NET and Azure Cloud. I enjoy solving complex problems and continuously learning new technologies to improve my skills and contribute to innovative projects.
 </p>
 
 🎯 **I’m currently working on**: Mastering the intricacies of Clean Architecture, CQRS, Vertical Slice and DDD.  
